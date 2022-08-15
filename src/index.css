@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+nav{
+  background-color:teal;
+  text-align: center;
+  display:block;
+  color:brown;
+  padding: 20px, 20px;
+  background-color: blueviolet;
+
+}
+.todo:hover{
+  border:2px solid yellow;
+  height: 120px;
+  width: 310;
+  background-color: white;
+  color: bisque;
+
+}
+main{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+
